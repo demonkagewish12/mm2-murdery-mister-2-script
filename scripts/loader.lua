@@ -1,0 +1,15 @@
+--[[
+    Murder Mystery 2 Script Loader
+    Keyless • Free • PC Only
+    
+    Скопируй этот файл или используй loadstring из README
+]]
+
+local success, err = pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/mm2-script/main/scripts/main.lua"))()
+end)
+
+if not success then
+    warn("[MM2 Script] Failed to load:", err)
+    warn("Make sure you are in Murder Mystery 2 and your executor supports HttpGet.")
+end
