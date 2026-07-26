@@ -58,7 +58,6 @@
 ## 📋 Requirements
 
 - Windows 10/11
-- Working executor with `HttpGet` support
 - Stable internet connection
 
 ---
